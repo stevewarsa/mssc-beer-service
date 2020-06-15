@@ -1,2 +1,2 @@
-#MSSC Beer Service
+# MSSC Beer Service
 Spring Microservice Example
